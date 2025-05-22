@@ -10,7 +10,7 @@
 # คลิปรายงาน
 https://youtu.be/tXi3QhQrGt0?si=JblQEcU4qwWydp8Q
 
-# Dashborad 1
+# Dashboard 1
 https://public.tableau.com/app/profile/chatchai.suebsakunkhit/viz/DashBoard1graph/Dashboard1?publish=yes
 
 # Dashboard 2
